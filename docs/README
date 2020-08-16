@@ -1,0 +1,29 @@
+Dear Student,
+
+The CA642 repeat continuous assessment is now available on Loop. The assessment is very similar to the previous one, involving
+a linear cryptanalysis of the FEAL-4 block cipher, so any work you did towards the previous assessment can hopefully be reused.
+
+Your task is to discover
+- as many of the bits as possible of the six 32-bit sub-keys K0-K5 used in this cipher
+- these sub-keys are different from those used in the previous assessment.
+- The more bits you find, the more marks you will get.
+
+However you will get some marks for even finding a few bits of the sub-keys.
+
+The source code for the cipher (from which the six secret sub-keys have been removed) is provided in the files FEAL.c and FEAL.java.
+
+An executable version of this code which has the secret key built into it was used to generate the 200 random plaintexts/ciphertexts,
+which can be found in the file known.txt.
+
+----
+
+There are two parts to linear cryptanalysis.
+1. Construct linear equations relating
+    plaintext P,
+    ciphertext C,
+    key bits K,
+    that have a high bias - that is, whose probabilities of holding (over the space of all possible values of their variables) are as close as possible to 0 or 1.
+2. Use these linear equations in conjunction with known plaintext-ciphertext pairs to derive key bits.
+
+--
+This is a known plaintext attack

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c4df0f0-8b0d-45ba-b3ac-95c49712a580" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feal4-ca/FEAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feal4-ca/FealAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/feal4-ca/FealAttackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FealAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FealAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FealAttackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FealAttackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="feal4-ca" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f8hgu2buKN8ZWdZaEsmGwKtWn8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FealAttack">
+    <configuration name="FealAttack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FealAttack" />
+      <module name="feal4-ca" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FealAttackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feal4-ca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FealAttackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FealAttackTest.attackBruteFroceK0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feal4-ca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FealAttackTest" />
+      <option name="METHOD_NAME" value="attackBruteFroceK0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FealAttackTest.attackFasterK0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feal4-ca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FealAttackTest" />
+      <option name="METHOD_NAME" value="attackFasterK0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FealAttackTest.testSetup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feal4-ca" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FealAttackTest" />
+      <option name="METHOD_NAME" value="testSetup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FealAttack" />
+        <item itemvalue="JUnit.FealAttackTest" />
+        <item itemvalue="JUnit.FealAttackTest.testSetup" />
+        <item itemvalue="JUnit.FealAttackTest.attackFasterK0" />
+        <item itemvalue="JUnit.FealAttackTest.attackBruteFroceK0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c4df0f0-8b0d-45ba-b3ac-95c49712a580" name="Default Changelist" comment="" />
+      <created>1595605742981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595605742981</updated>
+      <workItem from="1595605746100" duration="14581000" />
+      <workItem from="1595964899802" duration="3802000" />
+      <workItem from="1597504039677" duration="14724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="174" key="#Project_Structure" timestamp="1595605851936">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="440" y="174" key="#Project_Structure/0.23.1680.980@0.23.1680.980" timestamp="1595605851936" />
+    <state x="562" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595686612231">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="562" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.981@0.23.1680.981" timestamp="1595686612231" />
+    <state x="663" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1597515041460">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="663" y="200" key="#com.intellij.ide.util.MemberChooser/0.23.1680.981@0.23.1680.981" timestamp="1597515041460" />
+    <state x="738" y="202" key="#xdebugger.evaluate" timestamp="1597514263130">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="738" y="202" key="#xdebugger.evaluate/0.23.1680.981@0.23.1680.981" timestamp="1597514263130" />
+    <state x="103" y="123" width="1480" height="771" key="DiffContextDialog" timestamp="1595693586732">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="103" y="123" width="1480" height="771" key="DiffContextDialog/0.23.1680.981@0.23.1680.981" timestamp="1595693586732" />
+    <state width="1617" height="174" key="GridCell.Tab.0.bottom" timestamp="1597606488248">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1595605912405" />
+    <state width="1617" height="174" key="GridCell.Tab.0.bottom/0.23.1680.981@0.23.1680.981" timestamp="1597606488248" />
+    <state width="1617" height="174" key="GridCell.Tab.0.center" timestamp="1597606488247">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1595605912404" />
+    <state width="1617" height="174" key="GridCell.Tab.0.center/0.23.1680.981@0.23.1680.981" timestamp="1597606488247" />
+    <state width="1617" height="174" key="GridCell.Tab.0.left" timestamp="1597606488247">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1595605912404" />
+    <state width="1617" height="174" key="GridCell.Tab.0.left/0.23.1680.981@0.23.1680.981" timestamp="1597606488247" />
+    <state width="1617" height="174" key="GridCell.Tab.0.right" timestamp="1597606488248">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1595605912405" />
+    <state width="1617" height="174" key="GridCell.Tab.0.right/0.23.1680.981@0.23.1680.981" timestamp="1597606488248" />
+    <state width="1617" height="309" key="GridCell.Tab.1.bottom" timestamp="1597604457633">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1617" height="309" key="GridCell.Tab.1.bottom/0.23.1680.981@0.23.1680.981" timestamp="1597604457633" />
+    <state width="1617" height="309" key="GridCell.Tab.1.center" timestamp="1597604457632">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1617" height="309" key="GridCell.Tab.1.center/0.23.1680.981@0.23.1680.981" timestamp="1597604457632" />
+    <state width="1617" height="309" key="GridCell.Tab.1.left" timestamp="1597604457632">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1617" height="309" key="GridCell.Tab.1.left/0.23.1680.981@0.23.1680.981" timestamp="1597604457632" />
+    <state width="1617" height="309" key="GridCell.Tab.1.right" timestamp="1597604457632">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="1617" height="309" key="GridCell.Tab.1.right/0.23.1680.981@0.23.1680.981" timestamp="1597604457632" />
+    <state x="629" y="209" width="781" height="598" key="NewModule_or_Project.wizard" timestamp="1595683414272">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="629" y="209" width="781" height="598" key="NewModule_or_Project.wizard/0.23.1680.980@0.23.1680.980" timestamp="1595683414272" />
+    <state x="644" y="433" key="ReplaceDuplicatesPrompt" timestamp="1595714197445">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="644" y="433" key="ReplaceDuplicatesPrompt/0.23.1680.981@0.23.1680.981" timestamp="1595714197445" />
+    <state x="331" y="90" key="SettingsEditor" timestamp="1595693865958">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="331" y="90" key="SettingsEditor/0.23.1680.981@0.23.1680.981" timestamp="1595693865958" />
+    <state x="121" y="123" width="1459" height="738" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597604686253">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="121" y="123" width="1459" height="738" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.981@0.23.1680.981" timestamp="1597604686253" />
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1597504058871">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.980@0.23.1680.980" timestamp="1595605747825" />
+    <state x="517" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.981@0.23.1680.981" timestamp="1597504058871" />
+    <state x="547" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595687053524">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="547" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.981@0.23.1680.981" timestamp="1595687053524" />
+    <state x="622" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595687036262">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="622" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.981@0.23.1680.981" timestamp="1595687036262" />
+    <state x="581" y="268" width="542" height="484" key="extract.method.dialog" timestamp="1597514770902">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="581" y="268" width="542" height="484" key="extract.method.dialog/0.23.1680.981@0.23.1680.981" timestamp="1597514770902" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1595687310684">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.981@0.23.1680.981" timestamp="1595687310684" />
+    <state x="394" y="131" key="new project wizard" timestamp="1595683382435">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="394" y="131" key="new project wizard/0.23.1680.980@0.23.1680.980" timestamp="1595683382435" />
+    <state x="515" y="228" width="670" height="676" key="search.everywhere.popup" timestamp="1597604877748">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="515" y="228" width="670" height="676" key="search.everywhere.popup/0.23.1680.981@0.23.1680.981" timestamp="1597604877748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FealAttackTest.java</url>
+          <line>45</line>
+          <properties class="FealAttackTest" method="getLhalfTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FealAttack.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FealAttack.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FealAttackTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
